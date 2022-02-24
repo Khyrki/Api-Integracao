@@ -1,0 +1,31 @@
+{
+  "name": "api-integracao",
+  "version": "1.0.0",
+  "description": "Api realiza integração entre Pipedrive e Bling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khyrki/Api-Integracao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khyrki/Api-Integracao/issues"
+  },
+  "homepage": "https://github.com/Khyrki/Api-Integracao#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "nodemon": "^2.0.15"
+  }
+}
