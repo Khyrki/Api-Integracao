@@ -17,7 +17,7 @@ Para iniciar a aplicação utilize o comando:
 ```bash
 npm start
 ```
-A seguinte mensagem irá aparecer no terminal, `ouvindo na porta 3005!`, isso significa que a aplicação está em execução e já pode ser usada, todas as requisições devem ser feitas para a url `http://localhost:<port>/<endpoit>`
+A seguinte mensagem irá aparecer no terminal, `ouvindo na porta 3005!`, isso significa que a aplicação está em execução e já pode ser usada, todas as requisições devem ser feitas para a url `http://localhost:<port>/<endpoint>`
 
 ## EndPoints
 
