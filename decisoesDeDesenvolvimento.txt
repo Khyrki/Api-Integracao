@@ -1,0 +1,7 @@
+Algumas considerações foram tomadas durante o desenvolvimento, essa aplicação foi desenvolvida visando um cenário fictício, não contempla todos os aspectos de uma aplicação real, com finalidade de deixar o código o mais simples e legível possível para facilitar a avaliação.
+
+Foram utilizados três dias para o desenvolvimento dessa aplicação, no primeiro dia foi dedicado a configuração do ambiente de desenvolvimento e estudo das plataformas Pipedrive e Bling, pois nunca havia tido contato com elas antes.
+
+O segundo dia foi de desenvolvimento da aplicação em si e testagem das funcionalidades.
+
+E no terceiro dia foi feita a documentação e limpeza do código.

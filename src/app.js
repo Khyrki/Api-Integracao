@@ -12,7 +12,7 @@ app.use(bodyParser.json());
 app.use('/integration', integrationRoute);
 
 // Lista as ordens do banco de dados
-app.use('/order', orderRoute);
+app.use('/orders', orderRoute);
 
 app.use(errorMiddleware);
 
